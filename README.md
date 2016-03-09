@@ -1,7 +1,8 @@
 Colorizr
 =============
 
-
+Description
+-----------
 
 ruby gem modifying the String class to change the color of the text.
 
@@ -15,6 +16,9 @@ Blue
 Pink
 Light Blue
 Installation
+
+Installation
+------------
 
 Download and unzip the zip file or
 
@@ -45,6 +49,7 @@ The new String methods available are:
 .light_blue
 
 Class methods:
+--------------
 
 String.colors          # return the list of avaible colors
 String.sample_colors   # display examples of available colors
@@ -58,5 +63,6 @@ Known Issues
 The coloring of output has only been tested on a Mac/Unix terminal. The output on a Windows terminal window is unknown.
 
 License
+-------
 
-Colorizr is distributed under the MIT license.
+Under the MIT license.
