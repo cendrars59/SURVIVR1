@@ -6,7 +6,7 @@ class String
     :yellow => 33,
     :blue => 34,
     :pink => 35,
-    :light_bkue => 94,
+    :light_blue => 94,
     :white => 97,
     :light_grey => 37,
     :black => 30

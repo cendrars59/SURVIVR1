@@ -29,8 +29,8 @@ In a terminal window:
 cd survivr1/lib
 Run the following commands:
 
-$ gem build colorizr.gemspec
-$ gem install colorizr-0.0.2.gem
+> $ gem build colorizr.gemspec
+> $ gem install colorizr-0.0.2.gem
 
 Usage
 -----

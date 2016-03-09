@@ -1,12 +1,13 @@
 How does your gem take advantage of Ruby’s metaprogramming capabilities?
 
+	the methods are created with define_method method.
 
 How long did you spend working on this project?
-	4 hours cumulated 
+	4 hours cumulated
 
 What was the most rewarding challenge you conquered?
 	Discovering Meta programming . I haven’t known that it exists
 
 Where do you still have room to grow?
-	Applying the covered topic in the right development context. 
+	Applying the covered topic in the right development context.
 	« When will I have to use meta programming in order to solve the problem I am facing « 
