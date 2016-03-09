@@ -31,7 +31,9 @@ Run the following commands:
 
 $ gem build colorizr.gemspec
 $ gem install colorizr-0.0.2.gem
+
 Usage
+-----
 
 To your ruby file, you will need to:
 
@@ -51,9 +53,11 @@ The new String methods available are:
 Class methods:
 --------------
 
-String.colors          # return the list of avaible colors
+String.colors          # return the list of available colors
 String.sample_colors   # display examples of available colors
+
 Examples
+---------
 
 puts "This string will be blue".blue
 puts "This string will be red".red
