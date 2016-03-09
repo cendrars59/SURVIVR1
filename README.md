@@ -1,4 +1,7 @@
 Colorizr
+=============
+
+
 
 ruby gem modifying the String class to change the color of the text.
 
