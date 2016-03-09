@@ -12,7 +12,6 @@ class String
     :black => 30
   }
 
-
   # Class method to create the color instance methods
     def self.create_colors
       @colors_list.each do |color,value|
